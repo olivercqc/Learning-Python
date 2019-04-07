@@ -1,5 +1,4 @@
-$1.01^{365}=37.78$
+### Learning Python
+This repo contains some codes and notes through my Python Learning progress
 
-$0.99^{365}=0.03$
-
-This repository contains my records of learning Python
+You may find some notes helpful for u in the **notes** folder
